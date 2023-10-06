@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arpit Raj
-- 👀 I’m interested in Game Development,Programming and tech related stuffs
-- 🌱 I’m currently learning B.Tech in Computer Science and Engineering
+- 👀 I’m interested in Programming, Software Development, etc.
+- 🌱 Completed B.Tech in Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me arpit.r.raj@gmail.com
 
 <!---
 Arpit-R/Arpit-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
